@@ -48,7 +48,7 @@
                                 <div class="card shadow-sm">
                                     <div class="card-header bg-primary text-white">Trabajo Práctico 1</div>
                                     <div class="card-body text-center">
-                                        <a href="/PWD_TP4/Vista/estructura/TP1/Menu/index.php" class="btn btn-primary w-100">Ingresar</a>
+                                        <a href="/PWD-LAST/Vista/estructura/TP1/Menu/index.php" class="btn btn-primary w-100">Ingresar</a>
                                     </div>
                                 </div>
                             </div>
@@ -77,7 +77,7 @@
                                 <div class="card shadow-sm">
                                     <div class="card-header bg-success text-white">Trabajo Práctico 2</div>
                                     <div class="card-body text-center">
-                                        <a href="/PWD_TP4/Vista/estructura/TP2/Menu/index.php" class="btn btn-success w-100">Ingresar</a>
+                                        <a href="/PWD-LAST/Vista/estructura/TP2/Menu/index.php" class="btn btn-success w-100">Ingresar</a>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +105,7 @@
                                 <div class="card shadow-sm">
                                     <div class="card-header bg-danger text-white">Trabajo Práctico 3</div>
                                     <div class="card-body text-center">
-                                        <a href="/PWD_TP4/Vista/estructura/TP3/Menu/index.php" class="btn btn-danger w-100">Ingresar</a>
+                                        <a href="Vista\estructura\TP1\Menu\index.php" class="btn btn-danger w-100">Ingresar</a>
                                     </div>
                                 </div>
                             </div>
@@ -133,7 +133,7 @@
                                 <div class="card shadow-sm">
                                     <div class="card-header bg-secondary text-white">Trabajo Práctico 4</div>
                                     <div class="card-body text-center">
-                                        <a href="/PWD_TP4/Vista/estructura/TP4/Menu/index.php" class="btn btn-danger w-100">Ingresar</a>
+                                        <a href="/PWD-LAST/Vista/estructura/TP4/Menu/index.php" class="btn btn-danger w-100">Ingresar</a>
                                     </div>
                                 </div>
                             </div>

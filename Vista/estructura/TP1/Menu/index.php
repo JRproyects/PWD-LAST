@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="card-footer text-center">
-                    <a href="../../index.php" class="btn btn-secondary">⬅ Volver al inicio</a>
+                    <a href="http://localhost/PWD-LAST" class="btn btn-secondary">⬅ Volver al inicio</a>
                 </div>
             </div>
         </div>
