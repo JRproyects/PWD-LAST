@@ -1,8 +1,9 @@
 <?php
 
  include_once("../../util/funciones.php");
+ class verificaPass {
 
-function validar() {
+public function validar() {
 
     $datos = data_submitted();
 
@@ -32,6 +33,7 @@ function validar() {
         "usuario" => $usuarioEncontrado
     ];
 }
+ }
 
 
     
