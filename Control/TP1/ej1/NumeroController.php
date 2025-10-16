@@ -1,12 +1,14 @@
 <?php
 class NumeroController {
     public function analizarNumero($numero) {
+        $respuesta = '';
         if ($numero > 0) {
-            return "Positivo";
+            $respuesta = "Positivo";
         } elseif ($numero < 0) {
-            return "Negativo";
+            $respuesta = "Negativo";
         } else {
-            return "Cero";
+            $respuesta = "Cero";
         }
+        return $respuesta;
     }
 }

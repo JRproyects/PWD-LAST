@@ -1,14 +1,17 @@
 <?php 
-include_once(__DIR__ . "/../../../estructura/header.php");
-require_once(__DIR__ . "/../../../../Control/TP1/ej1/NumeroController.php");
-require_once(__DIR__ . "/../../../../Modelo/funciones.php"); // incluimos la función
+require_once(__DIR__ . "/../../../../configuracion.php");
+include_once($_SESSION['ROOT'] . "Vista/estructura/header.php");
+
+//esta andando y esta usando configuracion.php como autoloader! 
+
+
 
 // Obtenemos los datos enviados (pueden ser GET o POST)
 $datos = darDatosSubmitted();
 $numero = isset($datos['numero']) ? (int)$datos['numero'] : null;
 
-$controller = new NumeroController();
-$resultado = $controller->analizarNumero($numero);
+$controlador = new NumeroController();
+$resultado = $controlador->analizarNumero($numero);
 ?>
 
 <div class="container mt-5">

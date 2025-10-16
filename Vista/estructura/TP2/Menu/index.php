@@ -11,7 +11,7 @@
                     <p class="text-muted text-center">Selecciona un ejercicio para ingresar:</p>
 
                     <div class="list-group">
-                        <a href="../ej1/index.php" class="list-group-item list-group-item-action">
+                        <a href="/Vista/estructura/TP2/ej3/ej3a/index.php" class="list-group-item list-group-item-action">
                             Ejercicio 1
                         </a>
                         <a href="../ej2/index.php" class="list-group-item list-group-item-action">

@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/Tabla.php';
-require_once __DIR__ . "/../conector/BaseDatos.php";
+require_once __DIR__ . "PWD-LAST\configuracion.php";
 
 class Auto extends Tabla {
     private $Patente;
